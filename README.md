@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm a graduate student with a Master's Degree in Data Science from the University at Buffalo-State University of New York (SUNY).
 
-*My Journey*
+**My Journey**
 
 💼 I have over 3 years of professional experience as a Business Data Analyst. During this time, I began exploring the field of data science by working on various data science projects.
 🎓 Having developed a strong interest in data science, I pursued a degree to complement my skills with formal education and to sharpen my expertise.
@@ -37,5 +37,6 @@ I'm a graduate student with a Master's Degree in Data Science from the Universit
 🌟 I’m a continuous and quick learner, a team player, and I have a keen eye for detail.
 🔬 Outside of work and studies, I spend time reading books, listening to educational podcasts and playing sports.
 
-Contact Me
+**Contact Me**
+
 📫 Connect with me on LinkedIn (*Meghna Aalingil*) or email me at **meghnaaalingil@gmail.com**.
