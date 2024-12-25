@@ -35,7 +35,10 @@ I'm a graduate student with a Master's Degree in Data Science from the Universit
 
 📊 I'm continuously improving my Data Analysis skills by creating dashboards using Tableau and Power BI.
 
+Additionally,
+
 🌟 I’m a continuous and quick learner, a team player, and I have a keen eye for detail.
+
 🔬 Outside of work and studies, I spend time reading books, listening to educational podcasts and playing sports.
 
 **Contact Me**
