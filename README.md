@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 I'm a graduate student with a Master's Degree in Data Science from the University at Buffalo-State University of New York (SUNY).
 
 *My Journey*
+
 💼 I have over 3 years of professional experience as a Business Data Analyst. During this time, I began exploring the field of data science by working on various data science projects.
 🎓 Having developed a strong interest in data science, I pursued a degree to complement my skills with formal education and to sharpen my expertise.
 
