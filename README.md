@@ -1,4 +1,4 @@
-## Hi, I'm Meghna ![image](https://github.com/user-attachments/assets/02adb68f-e197-4937-95e4-6e3de8499c0d)
+## Hi, I'm Meghna 😇
 
 
 <!--
